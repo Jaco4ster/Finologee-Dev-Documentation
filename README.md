@@ -8,7 +8,7 @@
 - Mobile: 40, 20, 40, 20
 
 ## Coontainer content gaps
-- 20px
+- 25px
 
 ## Btns Sizing/Radius
 - Corner radius: 100
