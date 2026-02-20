@@ -15,3 +15,7 @@
 - Padding: 10, 20, 10, 20
 ### Btn Groups spacomg
 - 10 10
+
+#ANIMATIONS  
+## Button Entrance Animation  
+- Fade In Up (normal)
