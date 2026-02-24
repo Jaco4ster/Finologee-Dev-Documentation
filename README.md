@@ -16,7 +16,8 @@
 ### Btn Groups spacomg
 - 10 10
 
-#Animations  
+# Animations  
 ## Bento Boxes  
 - Icons > Fade In Normal
 - Hover Effect on Box > Scale: 1.01
+- Box Entrance Animation > Fade in Up (Fast) staggered with 100ms for each block
