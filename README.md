@@ -15,3 +15,8 @@
 - Padding: 10, 20, 10, 20
 ### Btn Groups spacomg
 - 10 10
+
+#Animations  
+## Bento Boxes  
+- Icons > Fade In Normal
+- Hover Effect on Box > Scale: 1.01
